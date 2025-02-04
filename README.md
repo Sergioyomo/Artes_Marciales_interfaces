@@ -9,3 +9,7 @@ user: artesmarciales
 password: artesmarciales
 
 database: Artes_Marciales
+
+# Como iniciarlo
+
+Usa el comando npm install el las carpetas backend y frontend antes de usar el comando npm run dev para ejecutarlos.
